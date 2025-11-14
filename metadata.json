@@ -1,0 +1,5 @@
+{
+  "name": "J.E.B. – Juicio Educativo Basado en IA",
+  "description": "An AI-powered educational application for teachers and students to conduct diagnostic assessments, track progress, and receive personalized feedback using Gemini.",
+  "requestFramePermissions": []
+}
